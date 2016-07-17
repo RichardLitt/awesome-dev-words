@@ -1,6 +1,11 @@
 # awesome-dev-words
 A glossary of words developers like to use!
 
+## Contribute
+
+Please add words or definitions! If you don’t want to ask for word definitions publicly for any reason, just ping me privately and I’ll add them.
+
+## Glossary
 
 #### meta
 
