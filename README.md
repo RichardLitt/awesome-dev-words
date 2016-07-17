@@ -13,6 +13,10 @@ Generally, this means it refers to not the thing you're talking about, but the o
 
 TODO
 
+#### lossy
+
+This [comes](https://en.wikipedia.org/wiki/Lossy_compression) from the world of data compression. It means that data can be lost. So, for instance, a lossy note taking would mean that not everything useful was written down.
+
 ## License
 
 cc0.
