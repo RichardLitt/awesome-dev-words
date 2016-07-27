@@ -24,6 +24,8 @@ This [comes](https://en.wikipedia.org/wiki/Lossy_compression) from the world of 
 
 #### DDoS
 
+A DDoS is a distributed denial of service attack. Basically, it is way of taking down a website by sending a lot of traffic to it. "It is analogous to a group of people crowding the entry door or gate to a shop or business, and not letting legitimate parties enter into the shop or business, disrupting normal operations." ([Wikipedia](https://en.wikipedia.org/wiki/Denial-of-service_attack))
+
 ## License
 
 cc0.
