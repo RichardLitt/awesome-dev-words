@@ -7,6 +7,11 @@ Please add words or definitions! If you don’t want to ask for word definitions
 
 ## Glossary
 
+#### bike shed
+
+> bikeshed +‎ -ing. The term was coined as a metaphor to illuminate Parkinson’s Law of Triviality. Parkinson observed that a committee whose job is to approve plans for a nuclear power plant may spend the majority of its time on relatively unimportant but easy-to-grasp issues, such as what materials to use for the staff bikeshed, while neglecting the design of the power plant itself, which is far more important but also far more difficult to criticize constructively. It was popularized in the Berkeley Software Distribution community by Poul-Henning Kamp and has spread from there to the software industry at large.
+~ [wiktionary](https://en.wiktionary.org/wiki/bikeshedding)
+
 #### meta
 
 > pertaining to or noting an abstract, high-level analysis or commentary, especially one that consciously references something of its own type.
